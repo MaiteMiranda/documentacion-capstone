@@ -163,7 +163,7 @@ npm run dev
 
 El desarrollo se gestiona activamente mediante el marco de trabajo **Scrum**. Se realiza el seguimiento de historias de usuario, tareas y avances en el tablero de Trello:
 
-* 📌 **Tablero Trello del Proyecto:** [BarrioStock - Scrum Board 2026](https://www.google.com/search?q=https://trello.com/b/barriostock-capstone-2026)
+* 📌 **Tablero Trello del Proyecto:** [BarrioStock - Scrum Board 2026](https://trello.com/b/FCKShWlK/barrio-stock)
 
 ---
 

@@ -86,4 +86,4 @@ Una Historia de Usuario se considera **COMPLETAMENTE TERMINADA** cuando:
 | **Fase 3** | **Sprint 4** | Pulido UI/UX, Despliegue y Manual de Usuario | Maite Miranda | Sem 13-14 | 📅 Programado |
 | **Fase 3** | **Defensa** | Informe Final, Presentación Ejecutiva y Exposición | Equipo (Karen/Maite) | Sem 15-16 | 📅 Programado |
 
-> **Tablero de Control Trello:** `https://trello.com/b/barriostock-capstone-2026`
+> **Tablero de Control Trello:** `https://trello.com/b/FCKShWlK/barrio-stock`

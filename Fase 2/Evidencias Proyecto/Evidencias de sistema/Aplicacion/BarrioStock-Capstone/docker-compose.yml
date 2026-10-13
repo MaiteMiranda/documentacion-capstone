@@ -7,9 +7,9 @@ services:
     ports:
       - "1521:1521"
     environment:
-      - ORACLE_PASSWORD=BarrioStock2026!
-      - APP_USER=barriostock_user
-      - APP_USER_PASSWORD=BarrioStockPass2026!
+      - ORACLE_PASSWORD=*******
+      - APP_USER=*******
+      - APP_USER_PASSWORD=******
     volumes:
       - oracle_data:/gvenzl/oracle-free
       - ./database/01_init.sql:/container-entrypoint-initdb.d/01_init.sql

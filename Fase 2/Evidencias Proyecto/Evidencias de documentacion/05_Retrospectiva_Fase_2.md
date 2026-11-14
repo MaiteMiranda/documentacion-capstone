@@ -97,7 +97,3 @@ Las siguientes acciones se proponen a partir de los puntos anteriores. Deben inc
 La Fase 2 permitió establecer una base técnica y metodológica para BarrioStock: modelo de datos en Oracle 23c, ambiente estandarizado mediante Docker Compose, contrato API y desarrollo paralelo de backend y frontend. El enfoque API-First y el trabajo asíncrono fueron facilitadores importantes frente a la disponibilidad limitada de ambas integrantes.
 
 Los principales focos de mejora para la siguiente etapa son completar la integración de los endpoints, validar de extremo a extremo la venta con FEFO, ejecutar formalmente el plan de QA y abordar el despliegue Cloud y las pruebas de estrés en las semanas previstas por el cronograma.
-
----
-
-**Fuente de esta retrospectiva:** *Guía Estudiante – Desarrollo Proyecto APT, Fase 2*, especialmente el resumen de avance (página 1), plan de trabajo (página 3) y ajustes a partir del monitoreo (página 4). Las acciones futuras se presentan como propuestas y deben confirmarse en el tablero del equipo.

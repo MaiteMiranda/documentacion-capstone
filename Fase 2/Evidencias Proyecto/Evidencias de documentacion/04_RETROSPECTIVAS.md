@@ -1,9 +1,3 @@
-
----
-
-# 04_RETROSPECTIVAS.md
-
-```md
 # Evidencias de Retrospectivas
 
 ## Retrospectiva Sprint 1 — Base técnica

@@ -1,9 +1,3 @@
-
----
-
-# 07_INNOVACION.md
-
-```md
 # Innovación — BarrioStock
 
 ## 1. ¿Qué problema resuelve?

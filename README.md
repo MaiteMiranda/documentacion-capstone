@@ -10,18 +10,23 @@
 
 ## 📚 Contenido
 
-- [Descripción del proyecto](#-descripción-del-proyecto)
-- [Problema, innovación y valor agregado](#-problema-innovación-y-valor-agregado)
-- [Características principales](#-características-principales)
-- [Tecnologías y herramientas](#-tecnologías-y-herramientas)
-- [Equipo e integrantes](#-equipo-e-integrantes)
-- [Arquitectura del sistema](#-arquitectura-del-sistema)
-- [Estructura del repositorio](#-estructura-del-repositorio)
-- [Requisitos e instalación local](#-requisitos-e-instalación-local)
-- [Metodología y gestión del proyecto](#-metodología-y-gestión-del-proyecto)
-- [Pruebas y aseguramiento de calidad](#-pruebas-y-aseguramiento-de-calidad)
-- [Documentación y evidencias](#-documentación-y-evidencias)
-- [Licencia y uso académico](#-licencia-y-uso-académico)
+- [🏪 BarrioStock – Plataforma Inteligente para Almacenes de Barrio](#-barriostock--plataforma-inteligente-para-almacenes-de-barrio)
+  - [📚 Contenido](#-contenido)
+  - [📝 Descripción del proyecto](#-descripción-del-proyecto)
+  - [💡 Problema, innovación y valor agregado](#-problema-innovación-y-valor-agregado)
+  - [🚀 Características principales](#-características-principales)
+  - [🛠️ Tecnologías y herramientas](#️-tecnologías-y-herramientas)
+  - [👥 Equipo e integrantes](#-equipo-e-integrantes)
+  - [🏛️ Arquitectura del sistema](#️-arquitectura-del-sistema)
+    - [Componentes](#componentes)
+  - [🧰 Requisitos e instalación local](#-requisitos-e-instalación-local)
+    - [Prerrequisitos](#prerrequisitos)
+    - [1. Clonar el repositorio](#1-clonar-el-repositorio)
+    - [2. Levantar la base de datos](#2-levantar-la-base-de-datos)
+    - [3. Instalar e iniciar el backend](#3-instalar-e-iniciar-el-backend)
+    - [4. Instalar e iniciar el frontend](#4-instalar-e-iniciar-el-frontend)
+  - [🔄 Metodología y gestión del proyecto](#-metodología-y-gestión-del-proyecto)
+  - [📜 Licencia y uso académico](#-licencia-y-uso-académico)
 
 ---
 
